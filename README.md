@@ -1,37 +1,36 @@
-🗳️ Voting App
+VotingApp
+📌 Overview
 
-✨ A simple and secure online voting system built using modern backend technologies. This application allows users to cast votes digitally while ensuring fairness and transparency.
+Voting App is a simple and secure online voting system developed to demonstrate backend development and real-world application logic. It allows users to cast votes digitally and ensures that each user can vote only once while maintaining transparency and accuracy.
 
 🚀 Features
+
 🔐 Secure user login system
 🗳️ Cast vote for candidates
 🚫 One user can vote only once
 📊 View voting results
-⚡ Fast and user-friendly interface
+⚡ Simple and user-friendly interface
 
-🛠️ Tech Stack
-💻 Backend: Java, Spring Boot
-🗄️ Database: MySQL
-🧰 Tools: Eclipse, Git, GitHub
+🛠️ Technologies Used
 
-⚙️ How It Works
-1️⃣ User logs into the system
-2️⃣ Candidate list is displayed
-3️⃣ User selects and submits vote
-4️⃣ Vote is stored securely in database
-5️⃣ Results are displayed
+Language: Java
+Framework: Spring Boot
+Database: MySQL
+Tools: Eclipse, Git, GitHub
 
-🎯 Objective
-✔ Understand real-world voting system logic
-✔ Practice backend development using Spring Boot
-✔ Build a secure and structured application
+▶️ How to Run
 
-🌱 Future Enhancements
-📧 Email/OTP verification
-📊 Graphical result charts
-👨‍💼 Admin dashboard
-☁️ Cloud deployment
+Open the project in Eclipse
+Run the Spring Boot application
+Access the application in browser using localhost
+Login and start voting
+View results
+
+📌 Note
+
+This project is a basic implementation to demonstrate a digital voting system using Spring Boot.
+You can further enhance it by adding security features, UI improvements, and deployment.
 
 👩‍💻 Author
+
 Sonal Kumbhar
-🎓 B.Tech IT Student
