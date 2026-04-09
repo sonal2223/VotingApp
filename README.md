@@ -52,4 +52,3 @@ This project is a basic prototype of an online voting system. It can be extended
 
 Sonal Kumbhar
 🎓 B.Tech IT Student
-💻 Passionate about Backend Development & Full Stack Projects
