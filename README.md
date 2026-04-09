@@ -51,4 +51,3 @@ This project is a basic prototype of an online voting system. It can be extended
 👩‍💻 Author
 
 Sonal Kumbhar
-🎓 B.Tech IT Student
