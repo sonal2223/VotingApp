@@ -1,9 +1,7 @@
-🗳️ Voting App
 ✨ Overview
 
 A secure and efficient online voting system built using modern backend technologies.
 This application allows users to cast votes digitally while maintaining:
-
 Fairness in voting
 Transparency in results
 One-person-one-vote integrity
@@ -48,22 +46,22 @@ GitHub
 RESTful Web Services
 
 ⚙️ How It Works
-Step 1: User Login
+1️⃣ User Login
 User enters credentials
 System authenticates securely
-Step 2: Candidate Display
+2️⃣ Candidate Display
 List of candidates is shown
 User can view available options
-Step 3: Vote Casting
+3️⃣ Vote Casting
 User selects preferred candidate
 Submits vote
-Step 4: Vote Validation
+4️⃣ Vote Validation
 System checks user eligibility
 Ensures no duplicate voting
-Step 5: Data Storage
+5️⃣ Data Storage
 Vote is securely stored in database
 Data integrity is maintained
-Step 6: Result Generation
+6️⃣ Result Generation
 Votes are counted
 Results are displayed in real-time
 
@@ -73,7 +71,6 @@ Implement secure authentication mechanisms
 Practice backend development using Spring Boot
 Learn database integration with MySQL
 Build scalable and structured applications
-
 🌱 Future Enhancements
 📧 Verification System
 Email-based verification
