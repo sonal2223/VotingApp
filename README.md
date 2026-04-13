@@ -114,6 +114,6 @@ This application allows users to cast votes digitally while maintaining:
 - Scalable infrastructure  
 ---
 ## 👩‍💻 Author
-**Sonal Kumbhar**
+**Sonal kumbhar**
 
 
