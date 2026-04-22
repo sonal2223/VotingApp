@@ -17,7 +17,7 @@ This application allows users to cast votes digitally while maintaining:
 ### 🗳️ Voting System
 - Display list of available candidates  
 - Easy vote casting interface  
-- Smooth and simple user workflow  
+- Smooth and simple user workflow   
 
 ### 🚫 Voting Restriction
 - One user can vote only once  
